@@ -2,5 +2,5 @@
   "name": "AssetNexaChain",
   "description": "Tokenizing Real-World Assets for Programmable Ownership on BNB Chain Testnet and EVM networks.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": ["MAJOR_CAPABILITY_"]
 }
