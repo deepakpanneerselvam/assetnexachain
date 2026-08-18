@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Hardhat generated files
+artifacts/
+cache/
+typechain-types/
+
+# Hardhat deployment output
+deployments/
